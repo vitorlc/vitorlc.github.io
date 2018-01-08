@@ -1,2 +1,2 @@
-Currículo Vitae - 
-[Vitor de Lima Cirqueira] (https://vitorlc.github.io)
+# Currículo Vitae #
+  [Vitor de Lima Cirqueira](https://vitorlc.github.io)
