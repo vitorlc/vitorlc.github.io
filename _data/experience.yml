@@ -1,7 +1,7 @@
 # Jobs
 # Springfield Nuclear Power Plant
-- company: Defensoria Pública do Estado de Goiás  
-  position: Suporte ao Usuário 
+- company: Defensoria Pública do Estado de Goiás
+  position: Suporte ao Usuário
   duration: Fevereiro, 2015 &mdash; Agosto, 2016
   summary: Prestar assistência às atividades de informática no local,
             Atuar na instalação física de microcomputadores, instalação lógica e configuração de sistemas operacionais e sistemas de aplicativos desenvolvidos.
@@ -9,7 +9,9 @@
 # Windmill Crank Operator
 - company: Tribunal de Justiça do Estado de Goiás
   position: Administrador Moodle
+<<<<<<< HEAD
   duration:  Fevereiro, 2017 &mdash; Atualmente
+=======
+  duration:  Fevereiro, 2017 &mdash; Novembro, 2017
+>>>>>>> gh-pages
   summary: Administrar e dar suporte ao ambiente virtual Moodle da EJUG (Escola Judicial do Estado de Goiás).
-
-
