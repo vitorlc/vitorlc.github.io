@@ -17,5 +17,10 @@
 
 - company: Rancho Soluções em Tecnologia
   position: Estagiário Desenvolvimento
-  duration: Novembro, 2018 &mdash; Atualmente,
-  summary:  Desenvolvimento de páginas e sistemas, utilizando as tecnologias mais atuais do mercado.
+  duration: Novembro, 2018 &mdash; Janeiro, 2020
+
+- company: Rancho Soluções em Tecnologia
+  position: Desenvolvedor Full Stack
+  duration: Janeiro, 2020 &mdash; Atualmente
+  summary:  Atuo como desenvolvedor de soluções tecnológicas para o setor de pecuária utilizando Javascript no FrontEnd com VueJS junto com Bootstrap e Indexeddb, e no Backend utilizando NodeJS e MySQL.
+
