@@ -1,11 +1,7 @@
 # Skills
 # Donut design
-- skill: Conhecimento intermediário em Desenvolvimento Web.
-  description: HTML5, CSS3, Javascript (Vuejs, Nodejs), Git, Mysql.
-
-# Craft beer brewing
-- skill: Conhecimento avançado Pacote Office.
-  description: Word, Excel e PowerPoint.
+- skill: Tecnologias:
+  description: HTML5, CSS3, Javascript (Vuejs, Nodejs), ReacNative, Git, Mysql.
 
 # Family leadership
 - skill: Conhecimento intermediário ferramentas Adobe.
