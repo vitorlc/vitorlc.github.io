@@ -1,14 +1,26 @@
 # Jobs
 - company: Rancho Soluções em Tecnologia
-  position: Full Stack Developer
-  duration: January, 2020 &mdash; Present
-  summary:  I work as a developer of technological solutions for the livestock sector using Javascript in FrontEnd with VueJS along with Bootstrap and Indexeddb, in Mobile using ReactNative and in the Backend using NodeJS and MySQL.
+  position: Desenvolvedor Full Stack
+  duration: Janeiro, 2020 &mdash; Atualmente
+  summary:  Atuo como desenvolvedor de soluções tecnológicas para o setor de pecuária utilizando Javascript no FrontEnd com VueJS junto com Bootstrap e Indexeddb, e no Backend utilizando NodeJS e MySQL.
 
 - company: Rancho Soluções em Tecnologia
-  position: Full Stack Developer Intern 
-  duration: November, 2018 &mdash; January, 2020
+  position: Estagiário Desenvolvimento
+  duration: Novembro, 2018 &mdash; Janeiro, 2020
 
 - company: Conselho Regional de Medicina Veterinária
-  position: Developer Intern
-  duration: February, 2018 &mdash; November, 2018
-  summary:  Configuration of Windows and Linux servers; Development of pages and systems in PHP; Administration of MySQL database.
+  position: Estagiário Desenvolvimento
+  duration: Fevereiro, 2018 &mdash; Novembro, 2018
+  summary:  Configuração de servidores Windows e Linux, desenvolvimento de páginas e sistemas em  PHP, administração de banco de dados MySQL.
+
+- company: Tribunal de Justiça do Estado de Goiás
+  position: Administrador Moodle
+  duration: Fevereiro, 2017 &mdash; Novembro, 2017
+  summary: Administrar e dar suporte ao ambiente virtual Moodle da EJUG (Escola Judicial do Estado de Goiás).
+
+- company: Defensoria Pública do Estado de Goiás
+  position: Suporte ao Usuário
+  duration: Fevereiro, 2015 &mdash; Agosto, 2016
+  summary: Prestar assistência às atividades de informática no local,
+            Atuar na instalação física de microcomputadores, instalação lógica e configuração de sistemas operacionais e sistemas de aplicativos desenvolvidos.
+
