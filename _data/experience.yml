@@ -1,8 +1,13 @@
 # Jobs
-- company: Rancho Soluções em Tecnologia
+- company: Melhor Plano
   position: Desenvolvedor Full Stack
-  duration: Janeiro, 2020 &mdash; Atualmente
-  summary:  Atuo como desenvolvedor de soluções tecnológicas para o setor de pecuária utilizando Javascript no FrontEnd com VueJS junto com Bootstrap e Indexeddb, e no Backend utilizando NodeJS e MySQL.
+  duration: Maio, 2021 &mdash; Atualmente
+  summary:  Atuo com as tecnologias ReactJS, NodeJS e MongoDb.
+
+  - company: Rancho Soluções em Tecnologia
+  position: Desenvolvedor Full Stack
+  duration: Janeiro, 2020 &mdash; Abril, 2021
+  summary:  Desenvolvedor de soluções tecnológicas para o setor de pecuária utilizando Javascript no FrontEnd com VueJS junto com Bootstrap e Indexeddb, e no Backend utilizando NodeJS e MySQL.
 
 - company: Rancho Soluções em Tecnologia
   position: Estagiário Desenvolvimento
