@@ -49,7 +49,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Experiência Profissional</h2>
+          <h2>Professional Experience</h2>
         </header>
 
         {% for job in site.data.experience %}
@@ -57,6 +57,7 @@
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
+          <p class="resume-item-copy"><b>Skills: </b> {{job.skills}} </p>
         </div><!-- end of resume-item -->
         {% endfor %}
 
@@ -69,7 +70,7 @@
       <!-- begin Education -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Formação</h2>
+          <h2>Education</h2>
         </header>
 
         {% for education in site.data.education %}

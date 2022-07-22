@@ -1,31 +1,40 @@
 # Jobs
+- company: QR Capital
+  position: Full Stack Developer
+  duration: August, 2021 &mdash; Present
+  summary: I'm working on the first tokenization project of regulated assets of Brasil, being responsible for the communication module with the blockchain.
+  skills: Python · Django REST Framework · React.js · PostgreSQL · WebSocket · Node.js · JavaScript · Serveless · AWS SQS · AWS SNS 
+
 - company: Melhor Plano
-  position: Desenvolvedor Full Stack
-  duration: Maio, 2021 &mdash; Atualmente
-  summary:  Atuo em conjunto com o time de SEO, na criação de componentes e templates, utilizando as tecnologias ReactJS, NodeJS e MongoDb; Atualmente em um projeto de integração do Google Docs com o CRM utilizando appsScript e NodeJS.
+  position: Full Stack Developer
+  duration: May, 2021 &mdash; August, 2021
+  summary: I developed, maintained, and improved one Google Docs extension that uses Docs content as data for a CMS, together with a serverless function.
+  skills: TypeScript · Node.js · Appscript · Serveless 
 
 - company: Rancho Soluções em Tecnologia
-  position: Desenvolvedor Full Stack
-  duration: Janeiro, 2020 &mdash; Abril, 2021
-  summary:  Desenvolvedor de soluções tecnológicas para o setor de pecuária utilizando Javascript no FrontEnd com VueJS junto com Bootstrap e Indexeddb, e no Backend utilizando NodeJS e MySQL.
+  position: Full Stack Developer
+  duration: January, 2020 &mdash; April, 2021
+  summary: I developed, maintained, and improved one ERP for livestock sector, acting in all software development lifecycle, and responsible for integrating the software with bluetooth devices used in a farm. 
+  skills: JavaScript · Vuejs · React Native · Node.js · MySQL · Sequelize.js · WebSocket 
 
 - company: Rancho Soluções em Tecnologia
-  position: Estagiário Desenvolvimento
-  duration: Novembro, 2018 &mdash; Janeiro, 2020
+  position: Software Developer Intern
+  duration: November, 2018 &mdash; January, 2020
+  skills: JavaScript · Vuejs · React Native · Node.js · MySQL · Sequelize.js · WebSocket 
 
-- company: Conselho Regional de Medicina Veterinária
-  position: Estagiário Desenvolvimento
-  duration: Fevereiro, 2018 &mdash; Novembro, 2018
-  summary:  Configuração de servidores Windows e Linux, desenvolvimento de páginas e sistemas em  PHP, administração de banco de dados MySQL.
+# - company: Conselho Regional de Medicina Veterinária
+#   position: Estagiário Desenvolvimento
+#   duration: Fevereiro, 2018 &mdash; Novembro, 2018
+#   summary:  Configuração de servidores Windows e Linux, desenvolvimento de páginas e sistemas em  PHP, administração de banco de dados MySQL.
 
-- company: Tribunal de Justiça do Estado de Goiás
-  position: Administrador Moodle
-  duration: Fevereiro, 2017 &mdash; Novembro, 2017
-  summary: Administrar e dar suporte ao ambiente virtual Moodle da EJUG (Escola Judicial do Estado de Goiás).
+# - company: Tribunal de Justiça do Estado de Goiás
+#   position: Administrador Moodle
+#   duration: Fevereiro, 2017 &mdash; Novembro, 2017
+#   summary: Administrar e dar suporte ao ambiente virtual Moodle da EJUG (Escola Judicial do Estado de Goiás).
 
-- company: Defensoria Pública do Estado de Goiás
-  position: Suporte ao Usuário
-  duration: Fevereiro, 2015 &mdash; Agosto, 2016
-  summary: Prestar assistência às atividades de informática no local,
-            Atuar na instalação física de microcomputadores, instalação lógica e configuração de sistemas operacionais e sistemas de aplicativos desenvolvidos.
+# - company: Defensoria Pública do Estado de Goiás
+#   position: Suporte ao Usuário
+#   duration: Fevereiro, 2015 &mdash; Agosto, 2016
+#   summary: Prestar assistência às atividades de informática no local,
+#             Atuar na instalação física de microcomputadores, instalação lógica e configuração de sistemas operacionais e sistemas de aplicativos desenvolvidos.
 
