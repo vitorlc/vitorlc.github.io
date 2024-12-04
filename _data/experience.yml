@@ -1,26 +1,53 @@
 # Jobs
-- company: QR Capital
-  position: Full Stack Developer
-  duration: August, 2021 &mdash; Present
-  summary: Develop, deploy, and maintain applications; Assist in design and architecture decisions for the systems and their interaction with other systems; Data modeling of a relational database; Implement UX designs with React.js; Build Integration with 3rd party API and tools;
-  skills: Python · Django REST Framework · React.js · PostgreSQL · WebSocket · Node.js · JavaScript · Serveless · AWS SQS · AWS SNS 
+- company: Vórtx QR Tokenizadora  
+  position: Tech Lead  
+  duration: August, 2023 &mdash; Present  
+  summary:  
+    - Spearhead the development, deployment, and maintenance of mission-critical applications, ensuring high scalability and reliability.  
+    - Lead architectural design and integration strategies to support seamless interaction between distributed systems.  
+    - Design and optimize relational database schemas, improving data consistency and query performance.  
+    - Mentor and upskill developers, fostering a collaborative and high-performing team environment.  
+    - Solve complex technical challenges, driving innovation and efficiency in system performance.  
+  skills: NestJS · PostgreSQL · WebSocket · Node.js · JavaScript · TypeScript · Serverless · AWS SQS · AWS SNS · RabbitMQ · Vue.js  
 
-- company: Melhor Plano
-  position: Full Stack Developer
-  duration: May, 2021 &mdash; August, 2021
-  summary: Develop, deploy, and maintain one Google Docs extension; Assist on software requirements specification; 
-  skills: TypeScript · Node.js · Appscript · Serveless 
+- company: QR Capital  
+  position: Full Stack Developer  
+  duration: August, 2021 &mdash; July, 2023  
+  summary:  
+    - Developed, deployed, and maintained scalable applications, contributing to business-critical functionalities.  
+    - Collaborated on system architecture and design to enhance system interaction and modularity.  
+    - Modeled and optimized relational databases, improving data retrieval efficiency.  
+    - Built seamless integrations with third-party APIs and tools to expand system capabilities.  
+    - Translated UX designs into responsive interfaces using React.js, improving user satisfaction.  
+  skills: Python · Django REST Framework · React.js · PostgreSQL · WebSocket · Node.js · JavaScript · Serverless · AWS SQS · AWS SNS  
 
-- company: Rancho Soluções em Tecnologia
-  position: Full Stack Developer
-  duration: January, 2020 &mdash; April, 2021
-  summary: Develop and maintain applications (Web and mobile); Data modeling of a relational database; Assist on software requirements specification; Support junior developers; Responsible for developing bluetooth integration with devices used in a livestock farms.
-  skills: JavaScript · Vuejs · React Native · Node.js · MySQL · Sequelize.js · WebSocket 
+- company: Melhor Plano  
+  position: Full Stack Developer  
+  duration: May, 2021 &mdash; August, 2021  
+  summary:  
+    - Designed, developed, and deployed a custom Google Docs extension to improve document workflows.  
+    - Contributed to software requirements specification to align product development with business needs.  
+  skills: TypeScript · Node.js · Appscript · Serverless  
 
-- company: Rancho Soluções em Tecnologia
-  position: Software Developer Intern
-  duration: November, 2018 &mdash; January, 2020
-  skills: JavaScript · Vuejs · React Native · Node.js · MySQL · Sequelize.js · WebSocket 
+- company: Rancho Soluções em Tecnologia  
+  position: Full Stack Developer  
+  duration: January, 2020 &mdash; April, 2021  
+  summary:  
+    - Developed and maintained web and mobile applications, delivering key functionalities to clients.  
+    - Designed relational database schemas and optimized queries to improve performance.  
+    - Contributed to software requirements specification, ensuring alignment with client needs.  
+    - Mentored junior developers, fostering growth and technical skill development.  
+    - Led the development of Bluetooth integration with devices used in livestock farms, streamlining operations.  
+  skills: JavaScript · Vue.js · React Native · Node.js · MySQL · Sequelize.js · WebSocket  
+
+- company: Rancho Soluções em Tecnologia  
+  position: Software Developer Intern  
+  duration: November, 2018 &mdash; January, 2020  
+  summary:  
+    - Assisted in the development of web and mobile applications, gaining hands-on experience with the full development lifecycle.  
+    - Supported database design and maintenance tasks to improve application data management.  
+  skills: JavaScript · Vue.js · React Native · Node.js · MySQL · Sequelize.js · WebSocket  
+
 
 # - company: Conselho Regional de Medicina Veterinária
 #   position: Estagiário Desenvolvimento
