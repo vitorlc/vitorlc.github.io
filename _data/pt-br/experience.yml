@@ -1,0 +1,35 @@
+# Empregos
+- company: Vórtx QR Tokenizadora  
+  position: Tech Lead  
+  duration: Agosto, 2023 &mdash; Presente  
+  summary:  
+    Lidero o desenvolvimento, implantação e manutenção de aplicações, garantindo escalabilidade e confiabilidade; Supervisiono o design arquitetônico e estratégias de integração para permitir interação perfeita entre sistemas distribuídos; Projeto e otimizo esquemas de banco de dados relacionais para melhorar a consistência dos dados e o desempenho das consultas; Mentoro e capacito desenvolvedores, cultivando um ambiente de equipe colaborativo e de alto desempenho; Abordo desafios técnicos complexos, impulsionando a inovação e melhorando a eficiência do sistema.  
+  skills: NestJS · PostgreSQL · WebSocket · Node.js · JavaScript · TypeScript · Serverless · AWS SQS · AWS SNS · RabbitMQ · Vue.js  
+
+- company: QR Capital  
+  position: Desenvolvedor Full Stack  
+  duration: Agosto, 2021 &mdash; Julho, 2023  
+  summary:  
+    Desenvolvi, implantei e mantive aplicações escaláveis; colaborei na arquitetura e design do sistema para melhorar a modularidade e integração; modelei e otimizei bancos de dados relacionais para recuperação eficiente de dados; construí integrações perfeitas com APIs e ferramentas de terceiros; traduzi designs de UX em interfaces React.js responsivas, melhorando a satisfação do usuário.  
+  skills: Python · Django REST Framework · React.js · PostgreSQL · WebSocket · Node.js · JavaScript · Serverless · AWS SQS · AWS SNS  
+
+- company: Melhor Plano  
+  position: Desenvolvedor Full Stack  
+  duration: Maio, 2021 &mdash; Agosto, 2021  
+  summary:  
+    Projetei, desenvolvi e implantei uma extensão personalizada do Google Docs para melhorar os fluxos de trabalho de documentos; contribuí para a especificação de requisitos de software para alinhar o desenvolvimento do produto com as necessidades do negócio.  
+  skills: TypeScript · Node.js · Appscript · Serverless  
+
+- company: Rancho Soluções em Tecnologia  
+  position: Desenvolvedor Full Stack  
+  duration: Janeiro, 2020 &mdash; Abril, 2021  
+  summary:  
+    Desenvolvi e mantive aplicações web e móveis, entregando funcionalidades principais aos clientes; projetei esquemas de banco de dados relacionais e otimizei consultas para melhorar o desempenho; contribuí para a especificação de requisitos de software para garantir alinhamento com as necessidades do cliente; mentorei desenvolvedores júnior para promover crescimento e desenvolvimento de habilidades; liderei o desenvolvimento da integração Bluetooth com dispositivos de fazenda de gado, otimizando operações.  
+  skills: JavaScript · Vue.js · React Native · Node.js · MySQL · Sequelize.js · WebSocket  
+
+- company: Rancho Soluções em Tecnologia  
+  position: Estagiário de Desenvolvimento  
+  duration: Novembro, 2018 &mdash; Janeiro, 2020  
+  summary:  
+    Auxiliei no desenvolvimento de aplicações web e móveis, adquirindo experiência prática com o ciclo de vida completo de desenvolvimento; apoiei tarefas de design e manutenção de banco de dados para melhorar o gerenciamento de dados da aplicação.  
+  skills: JavaScript · Vue.js · React Native · Node.js · MySQL · Sequelize.js · WebSocket 

@@ -1,0 +1,19 @@
+# Resume sections
+resume_header_intro: "<p>28 years / E-mail: vitorcirqueira@gmail.com</p>"
+
+sections:
+  experience: "Professional Experience"
+  education: "Education"
+  projects: "Projects"
+  skills: "Skills"
+  recognition: "Recognition"
+  associations: "Associations"
+  interests: "Interests"
+  links: "Additional Links"
+  social_links: "Social Links"
+
+# Resume texts
+resume:
+  contact_button_text: "Contact me"
+  not_looking_text: "I'm not looking for work right now"
+  skills_label: "Skills" 

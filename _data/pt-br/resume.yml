@@ -1,0 +1,26 @@
+# Configurações do currículo
+resume_title: "Currículo"
+resume_contact_email: "vitorcirqueira@gmail.com"
+resume_header_contact_info: "vitorcirqueira@gmail.com"
+resume_header_intro: "<p>28 anos / E-mail: vitorcirqueira@gmail.com</p>"
+
+# Status de busca por trabalho
+resume_looking_for_work: "yes"
+
+# Seções do currículo
+sections:
+  experience: "Experiência Profissional"
+  education: "Formação"
+  projects: "Projetos"
+  skills: "Habilidades"
+  recognition: "Reconhecimentos"
+  associations: "Associações"
+  interests: "Interesses"
+  links: "Links Adicionais"
+  social_links: "Links Sociais"
+
+# Textos do currículo
+resume:
+  contact_button_text: "Contato"
+  not_looking_text: "Não estou procurando trabalho no momento"
+  skills_label: "Habilidades" 
