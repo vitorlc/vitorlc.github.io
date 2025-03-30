@@ -23,7 +23,7 @@ sections:
 resume:
   contact_button_text: "Contato"
   not_looking_text: "Não estou procurando trabalho no momento"
-  skills_label: "Habilidades" 
+  skills_label: "Tecnologias" 
 
 
 resume_social_links:
