@@ -24,3 +24,14 @@ resume:
   contact_button_text: "Contato"
   not_looking_text: "Não estou procurando trabalho no momento"
   skills_label: "Habilidades" 
+
+
+resume_social_links:
+  resume_github_url:            "https://github.com/vitorlc"
+  #resume_twitter_url:           "http://twitter.com/jglovier"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "https://www.facebook.com/vitor.lima.967"
+  resume_linkedin_url:          "https://www.linkedin.com/in/vitorlc"
+  # resume_instagram_url:         "https://www.instagram.com/vitor.lc/"
+  #resume_website_url:           "http://joelglovier.com"
+resume_print_social_links:      true
