@@ -4,14 +4,14 @@
   duration: Agosto, 2023 &mdash; Presente  
   summary:  
     Lidero o desenvolvimento, implantação e manutenção de aplicações, garantindo escalabilidade e confiabilidade; Defino a arquitetura e estratégias de integração para garantir a comunicação eficiente entre sistemas distribuídos; Projeto e otimizo esquemas de banco de dados relacionais para melhorar a consistência dos dados e o desempenho das consultas; Mentoro e capacito desenvolvedores, cultivando um ambiente de equipe colaborativo e de alto desempenho; 
-  skills: NestJS · PostgreSQL · WebSocket · Node.js · JavaScript · TypeScript · Serverless · AWS SQS · AWS SNS · RabbitMQ · Vue.js  
+  skills: NestJS · PostgreSQL · WebSocket · Node.js · JavaScript · TypeScript · Serverless · AWS SQS · AWS SNS · RabbitMQ · Vue.js · Jest  
 
 - company: QR Capital  
   position: Desenvolvedor Full Stack  
   duration: Agosto, 2021 &mdash; Julho, 2023  
   summary:  
     Desenvolvi, implantei e mantive aplicações escaláveis, garantindo alto desempenho e confiabilidade. Participei da definição da arquitetura e do design do sistema, aprimorando modularidade e integração. Modelei e otimizei bancos de dados relacional garantindo consistência, desempenho e escalabilidade. Implementei integrações com APIs de terceiros e serviços externos. Desenvolvi interfaces responsivas em React.js, melhorando a experiência do usuário.  
-  skills: Python · Django REST Framework · React.js · PostgreSQL · WebSocket · Node.js · JavaScript · Serverless · AWS SQS · AWS SNS  
+  skills: Python · Django REST Framework · React.js · GraphQL · PostgreSQL · WebSocket · Node.js · JavaScript · Serverless · AWS SQS · AWS SNS  
 
 - company: Melhor Plano  
   position: Desenvolvedor Full Stack  
