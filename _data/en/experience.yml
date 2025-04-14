@@ -1,7 +1,7 @@
 # Jobs
 - company: Vórtx QR Tokenizadora  
   position: Tech Lead  
-  duration: August, 2023 &mdash; Present  
+  duration: August, 2023 &mdash; April, 2025  
   summary:  
     Lead the development, deployment, and maintenance of applications, ensuring scalability and reliability; Oversee architectural design and integration strategies to enable seamless interaction between distributed systems; Design and optimize relational database schemas to enhance data consistency and query performance; Mentor and upskill developers, cultivating a collaborative and high-performing team environment; Tackle complex technical challenges, driving innovation and improving system efficiency.  
   skills: NestJS · PostgreSQL · WebSocket · Node.js · JavaScript · TypeScript · Serverless · AWS SQS · AWS SNS · RabbitMQ · Vue.js  
@@ -33,21 +33,3 @@
   summary:  
     Assisted in the development of web and mobile applications, gaining hands-on experience with the full development lifecycle; supported database design and maintenance tasks to improve application data management.  
   skills: JavaScript · Vue.js · React Native · Node.js · MySQL · Sequelize.js · WebSocket  
-
-
-# - company: Conselho Regional de Medicina Veterinária
-#   position: Estagiário Desenvolvimento
-#   duration: Fevereiro, 2018 &mdash; Novembro, 2018
-#   summary:  Configuração de servidores Windows e Linux, desenvolvimento de páginas e sistemas em  PHP, administração de banco de dados MySQL.
-
-# - company: Tribunal de Justiça do Estado de Goiás
-#   position: Administrador Moodle
-#   duration: Fevereiro, 2017 &mdash; Novembro, 2017
-#   summary: Administrar e dar suporte ao ambiente virtual Moodle da EJUG (Escola Judicial do Estado de Goiás).
-
-# - company: Defensoria Pública do Estado de Goiás
-#   position: Suporte ao Usuário
-#   duration: Fevereiro, 2015 &mdash; Agosto, 2016
-#   summary: Prestar assistência às atividades de informática no local,
-#             Atuar na instalação física de microcomputadores, instalação lógica e configuração de sistemas operacionais e sistemas de aplicativos desenvolvidos.
-
