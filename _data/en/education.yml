@@ -18,4 +18,4 @@
   uni: Federal University of Goiás
   year: 2014 &mdash; 2020
   awards: 
-  summary: For my final paper I developed a cellphone application for the treatment of vehicle data, connected through the vehicle’s OBDII port, allowing us calculate instantaneous fuel consumption.
+  summary: For my final paper, I built a mobile app that processes vehicle data via the OBDII port and calculates real-time fuel consumption.
