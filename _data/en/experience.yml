@@ -6,6 +6,13 @@
     Led the development, deployment, and maintenance of applications, ensuring scalability and reliability; Oversaw architectural design and integration strategies to enable seamless interaction between distributed systems; Designed and optimized relational database schemas to enhance data consistency and query performance; Mentored and upskilled developers, cultivating a collaborative and high-performing team environment; Tackled complex technical challenges, driving innovation and improving system efficiency.
   skills: NestJS · PostgreSQL · WebSocket · Node.js · JavaScript · TypeScript · Serverless · AWS SQS · AWS SNS · RabbitMQ · Vue.js  
 
+- company: BRQ Digital Solutions
+  position: Senior Full Stack Developer
+  duration: April 2023 to August 2023
+  summary:
+    I worked on a strategic project for a major banking client, contributing as a full stack developer. I developed new features using AngularJS and Node.js, while also maintaining and supporting legacy Java systems that were crucial for daily operations. I integrated internal APIs and third-party services, and provided technical support during production incidents. I closely collaborated with the QA and product teams to ensure quick resolution and minimal downtime.
+  skills: AngularJS · Node.js · Java · React.js · NestJS · PostgreSQL
+
 - company: QR Capital  
   position: Full Stack Developer  
   duration: August 2021 to July 2023  
