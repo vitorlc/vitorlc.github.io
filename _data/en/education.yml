@@ -12,8 +12,9 @@
   awards: 
   summary: Focused on Agile, Design Thinking, decision-making, and mastering communication. Developed skills in applying innovation and creativity in real-world projects, along with personal leadership growth.
 
-- degree: Bachelor’s Degree in Information Systems
+- degree: B.S. in Information Systems
   uni: Federal University of Goiás
   year: 2014 to 2020
   awards: 
-  summary: For my final paper, I built a mobile app that processes vehicle data via the OBDII port and calculates real-time fuel consumption.
+  summary: |
+    Capstone: OBDII-based mobile app for real-time vehicle diagnostics and fuel consumption tracking.
