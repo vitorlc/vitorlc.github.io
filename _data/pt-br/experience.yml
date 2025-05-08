@@ -18,25 +18,20 @@
   duration: Agosto, 2021 &mdash; Julho, 2023  
   summary:  
     Desenvolvi, implantei e mantive aplicações escaláveis, garantindo alto desempenho e confiabilidade. Participei da definição da arquitetura e do design do sistema, aprimorando modularidade e integração. Modelei e otimizei bancos de dados relacional garantindo consistência, desempenho e escalabilidade. Implementei integrações com APIs de terceiros e serviços externos. Desenvolvi interfaces responsivas em React.js, melhorando a experiência do usuário.  
-  skills: Python · Django REST Framework · React.js · GraphQL · PostgreSQL · WebSocket · Node.js · JavaScript · Serverless · AWS SQS · AWS SNS  
+  skills: Python · Django REST Framework · React.js · GraphQL · PostgreSQL · WebSocket · Node.js · JavaScript · Serverless · AWS SQS · AWS SNS · AWS Lambda
 
 - company: Melhor Plano  
   position: Desenvolvedor Full Stack  
   duration: Maio, 2021 &mdash; Agosto, 2021  
   summary:  
     Desenvolvi e implementei uma extensão personalizada do Google Docs para otimizar fluxos de trabalho. Colaborei na definição de requisitos de software, garantindo alinhamento com as necessidades do negócio.
-  skills: TypeScript · Node.js · Appscript · Serverless  
+  skills: TypeScript · Node.js · Appscript · Serverless · AWS Lambda
 
 - company: Rancho Soluções em Tecnologia  
   position: Desenvolvedor Full Stack  
-  duration: Janeiro, 2020 &mdash; Abril, 2021  
+  duration: Janeiro, 2020 &mdash; Abril, 2021
+  position1: Estagiário de Desenvolvimento  
+  duration1: Novembro, 2018 &mdash; Janeiro, 2020    
   summary:  
     Desenvolvi e mantive aplicações web e móveis, garantindo desempenho e escalabilidade. Modelei bancos de dados e otimizei consultas para melhorar a eficiência. Mentorei desenvolvedores júnior e liderei a integração Bluetooth com dispositivos agropecuários, otimizando operações no campo.  
   skills: JavaScript · Vue.js · React Native · Node.js · MySQL · Sequelize.js · WebSocket  
-
-- company: Rancho Soluções em Tecnologia  
-  position: Estagiário de Desenvolvimento  
-  duration: Novembro, 2018 &mdash; Janeiro, 2020  
-  summary:  
-    Auxiliei no desenvolvimento de aplicações web e móveis, adquirindo experiência prática no ciclo de vida do desenvolvimento de software. Contribuí para a manutenção e otimização de bancos de dados, melhorando a gestão de dados das aplicações. 
-  skills: JavaScript · Vue.js · React Native · Node.js · MySQL · Sequelize.js · WebSocket 

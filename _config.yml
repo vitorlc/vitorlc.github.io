@@ -11,7 +11,6 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Vitor de Lima Cirqueira"
-#resume_title:                   ""
 resume_contact_email:
   "vitorcirqueira@gmail.com"
 resume_header_contact_info: "vitorcirqueira@gmail.com"

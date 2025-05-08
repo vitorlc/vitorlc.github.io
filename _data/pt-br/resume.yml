@@ -1,8 +1,9 @@
 # Configurações do currículo
-resume_title: "Currículo"
+resume_title: "Desenvolvedor FullStack"
 resume_contact_email: "vitorcirqueira@gmail.com"
 resume_header_contact_info: "vitorcirqueira@gmail.com"
 resume_header_intro: "<p>29 anos / E-mail: vitorcirqueira@gmail.com</p>"
+
 
 # Status de busca por trabalho
 resume_looking_for_work: "yes"

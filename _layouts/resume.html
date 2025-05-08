@@ -41,13 +41,14 @@
 
         <!-- Contact buttons don't work in print, configure in the _config.yml file, remove "print-only" to display always. -->
         <div class="header-contact-info print-only" itemprop="contact-info">
+          <h2 class="header-title" itemprop="jobTitle">{{ resume.resume_title }}</h2>
           <p>{{ site.resume_header_contact_info }} / {{ resume.resume_social_links.resume_linkedin_url }}</p>
         </div>
 
         <div class="title-bar no-print">
 
           <!-- Your title is also defined in the _config.yml file -->
-          <h2 class="header-title" itemprop="jobTitle">{{ site.resume_title }}</h2>
+          <h2 class="header-title" itemprop="jobTitle">{{ resume.resume_title }}</h2>
 
           <!-- This is the markup for the icon links; moved out to an include because it's very verbose, and you shouldn't ever need to edit the markup (unless you want to re-order the icons); if you want to customize which links appear, define them in the _config.yml file -->
           {% include icon-links.html %}
@@ -78,6 +79,9 @@
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} - {{ job.duration }}</h4>
+          {%if job.position1 %}
+            <h4 class="resume-item-details mt-1" itemprop="description">{{ job.position1 }} - {{ job.duration1 }}</h4>
+          {% endif %}
           <p class="resume-item-copy">{{ job.summary }}</p>
           <p class="resume-item-copy"><b>{{ resume.resume.skills_label | default: 'Skills' }}: </b> {{job.skills}} </p>
         </div><!-- end of resume-item -->

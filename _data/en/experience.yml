@@ -29,7 +29,9 @@
 
 - company: Rancho Soluções em Tecnologia  
   position: Full Stack Developer  
-  duration: January 2020 to April 2021  
+  duration: January 2020 to April 2021
+  position1: Software Developer Intern
+  duration1: November 2018 to January 2020
   summary:  
     Developed and maintained web and mobile applications, delivering key functionalities to clients; designed relational database schemas and optimized queries to enhance performance; contributed to software requirements specification to ensure alignment with client needs; mentored junior developers to foster growth and skill development; led the development of Bluetooth integration with livestock farm devices, streamlining operations.  
   skills: JavaScript · Vue.js · React Native · Node.js · MySQL · Sequelize.js · WebSocket  
