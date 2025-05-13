@@ -192,6 +192,10 @@
 .print-only { display: none !important }
 
 @media print {
+  .pagebreak { 
+    page-break-before: always;
+    padding-top: 1.5rem;
+  }
   .no-print { display: none !important }
   .print-only { display: block !important }
   body { font-size: 12px; line-height: 1rem; }
