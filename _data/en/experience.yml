@@ -2,30 +2,41 @@
 - company: Vórtx QR Tokenizadora  
   position: Tech Lead  
   duration: August 2023 to April 2025  
-  summary:  
-    Led the development, deployment, and maintenance of applications, ensuring scalability and reliability; Oversaw architectural design and integration strategies to enable seamless interaction between distributed systems; Designed and optimized relational database schemas to enhance data consistency and query performance; Mentored and upskilled developers, cultivating a collaborative and high-performing team environment; Tackled complex technical challenges, driving innovation and improving system efficiency.
-  skills: NestJS · PostgreSQL · WebSocket · Node.js · JavaScript · TypeScript · Serverless · AWS SQS · AWS SNS · RabbitMQ · Vue.js  
+  summary:      
+    · Led architectural design and implementation of distributed systems using NestJS, NodeJs, AWS Lambda, and PostgreSQL, supporting real·time financial tokenization platforms; <br/>
+    · Designed an event·driven architecture using background jobs integrated with RabbitMQ, AWS SQS, SNS, WebSocket and Webhooks to enable reliable, asynchronous message processing; <br/>
+    · Mentored 5+ junior developers via code reviews, pair programming, and product discussions;<br/>
+    · Led and co·developed a custom continuous delivery (CD) pipeline with a tailored GitFlow strategy, increasing deployment frequency by 300% — from twice a month to twice a week;<br/>
+    · Instituted testing practices with Jest and API contract validation, increasing release confidence;<br/>
+    · Contributed directly to the tokenization and trading of over R$280 million in assets, leveraging blockchain to ensure traceability and regulatory compliance of operations.
+  skills: NestJS · PostgreSQL · WebSocket · Node.js · JavaScript · TypeScript · Serverless · AWS SQS · AWS SNS · RabbitMQ · Vue.js · Jest
 
 - company: BRQ Digital Solutions
   position: Senior Full Stack Developer
   duration: April 2023 to August 2023
   summary:
-    I worked on a strategic project for a major banking client, contributing as a full stack developer. I developed new features using AngularJS and Node.js, while also maintaining and supporting legacy Java systems that were crucial for daily operations. I integrated internal APIs and third-party services, and provided technical support during production incidents. I closely collaborated with the QA and product teams to ensure quick resolution and minimal downtime.
+    · Developed new features using AngularJS and Node.js, while also maintaining and supporting legacy Java systems that were crucial for daily operations;<br/>
+    · Integrated internal APIs and third·party services, and provided technical support during production incidents;<br/>
+    · Closely collaborated with the QA and product teams to ensure quick resolution and minimal downtime.
   skills: AngularJS · Node.js · Java · React.js · NestJS · PostgreSQL
 
 - company: QR Capital  
   position: Full Stack Developer  
   duration: August 2021 to July 2023  
   summary:  
-    Developed, deployed, and maintained scalable applications; collaborated on system architecture and design to enhance modularity and integration; modeled and optimized relational databases for efficient data retrieval; built seamless integrations with third-party APIs and tools; translated UX designs into responsive React.js interfaces, improving user satisfaction.  
-  skills: Python · Django REST Framework · React.js · PostgreSQL · WebSocket · Node.js · JavaScript · Serverless · AWS SQS · AWS SNS  
+    · Engineered modular services with Django REST and Node.js, integrating complex APIs and financial platforms;<br/>
+    · Delivered frontend components in React.js using Hooks and Context API, boosting UI performance and code reuse;<br/>
+    · Built and optimized PostgreSQL schemas and indexes, improving query performance on key endpoints;<br/>
+    · Led feature delivery from design to deployment in agile sprints.
+  skills: Python · Django REST Framework · React.js · PostgreSQL · WebSocket · Node.js · JavaScript · MicroServices · GraphQL · Serverless · AWS SQS · AWS SNS · AWS Lambda
 
 - company: Melhor Plano  
   position: Full Stack Developer  
   duration: May 2021 to August 2021  
   summary:  
-    Designed, developed, and deployed a custom Google Docs extension to enhance document workflows; contributed to software requirements specification to align product development with business needs.  
-  skills: TypeScript · Node.js · Appscript · Serverless  
+    · Built a custom Google Docs extension to streamline internal documentation processes using TypeScript and AppScript;<br/>
+    · Collaborated with stakeholders to align features with business KPIs. 
+  skills: TypeScript · Node.js · Appscript · Serverless · AWS Lambda
 
 - company: Rancho Soluções em Tecnologia  
   position: Full Stack Developer  
@@ -33,12 +44,9 @@
   position1: Software Developer Intern
   duration1: November 2018 to January 2020
   summary:  
-    Developed and maintained web and mobile applications, delivering key functionalities to clients; designed relational database schemas and optimized queries to enhance performance; contributed to software requirements specification to ensure alignment with client needs; mentored junior developers to foster growth and skill development; led the development of Bluetooth integration with livestock farm devices, streamlining operations.  
+    · Developed and maintained web and mobile applications for agribusiness;<br/>
+    · Led the Bluetooth integration with on·farm devices to enable real·time livestock tracking;<br/>
+    · Designed database schemas with MySQL and optimized backend performance using Sequelize.js;<br/>
+    · Mentored interns and contributed to the professional growth of junior team members.<br/>
   skills: JavaScript · Vue.js · React Native · Node.js · MySQL · Sequelize.js · WebSocket  
 
-- company: Rancho Soluções em Tecnologia  
-  position: Software Developer Intern  
-  duration: November 2018 to January 2020  
-  summary:  
-    Assisted in the development of web and mobile applications, gaining hands-on experience with the full development lifecycle; supported database design and maintenance tasks to improve application data management.  
-  skills: JavaScript · Vue.js · React Native · Node.js · MySQL · Sequelize.js · WebSocket  
