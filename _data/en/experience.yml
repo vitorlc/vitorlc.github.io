@@ -9,7 +9,7 @@
     · Led and co·developed a custom continuous delivery (CD) pipeline with a tailored GitFlow strategy, increasing deployment frequency by 300% — from twice a month to twice a week;<br/>
     · Instituted testing practices with Jest and API contract validation, increasing release confidence;<br/>
     · Contributed directly to the tokenization and trading of over R$280 million in assets, leveraging blockchain to ensure traceability and regulatory compliance of operations.
-  skills: NestJS · PostgreSQL · WebSocket · Node.js · JavaScript · TypeScript · Serverless · AWS SQS · AWS SNS · RabbitMQ · Vue.js · Jest
+  skills: NestJS · PostgreSQL · WebSocket · Node.js · JavaScript · TypeScript · Serverless · AWS SQS · AWS SNS · RabbitMQ · Vue.js · Jest · Ruby on Rails
 
 - company: BRQ Digital Solutions
   position: Senior Full Stack Developer
