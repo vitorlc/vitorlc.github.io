@@ -1,4 +1,11 @@
 # Empregos
+- company: Grupo Boticário
+  position: Software Developer Specialist
+  duration: Junho, 2025 &mdash; Atual
+  summary:      
+    Desenvolvo e mantenho microsserviços de autenticação e perfil de usuário, garantindo escalabilidade e confiabilidade; Implementei arquitetura orientada a eventos com AWS SQS e workers, aumentando a resiliência e reduzindo a latência; Otimizei a performance com estratégias de cache em Redis e melhorei a observabilidade com logging, métricas e tracing; Colaboro com times multidisciplinares para aprimorar a experiência do usuário em login, sessões e personalização de perfil, unindo segurança e usabilidade.
+  skills: NestJS · PostgreSQL · Node.js · JavaScript · TypeScript · AWS SQS · Redis · Jest
+
 - company: Vórtx QR Tokenizadora  
   position: Tech Lead  
   duration: Agosto, 2023 &mdash; Abril, 2025  

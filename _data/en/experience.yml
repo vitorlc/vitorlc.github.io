@@ -1,4 +1,15 @@
 # Jobs
+- company: Grupo Boticário
+  position: Software Developer Specialist
+  duration: June 2025 to Present 
+  summary:      
+    · Developed and maintained microservices for authentication and user profile, ensuring scalability and reliability across millions of access requests;
+    · Implemented **event-driven architectures** with AWS SQS and background workers, increasing system resilience and reducing latency in critical user access operations;
+    · Optimized application performance through **Redis caching strategies**, cutting redundant queries and accelerating profile-related response times;  
+    · Improved **observability and monitoring** by integrating logging, metrics, and tracing, enabling faster detection, root cause analysis, and incident resolution;  
+    · Partnered with cross-functional teams to elevate the **user experience in login, session management, and profile customization**, delivering secure yet seamless journeys for end users.  
+  skills: NestJS · PostgreSQL · Node.js · JavaScript · TypeScript · AWS SQS · Redis · Jest
+
 - company: Vórtx QR Tokenizadora  
   position: Tech Lead  
   duration: August 2023 to April 2025  
